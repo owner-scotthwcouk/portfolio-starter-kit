@@ -20,11 +20,11 @@ Deploy: Connect your GitHub repo to Render for a live URL.
 
 ## 📅 The 6-Part Curriculum
 **Ep 1: The Global Launch (Current)**
-Ep 2: Master Interaction with JavaScript Basics
-Ep 3: Scaling with Data: Arrays & Loops
-Ep 4: Building a Professional Contact Engine
-Ep 5: Connecting to the GitHub API
-Ep 6: SEO, Performance & Recruiter-Ready Audit
++ Ep 2: Master Interaction with JavaScript Basics
++ Ep 3: Scaling with Data: Arrays & Loops
++ Ep 4: Building a Professional Contact Engine
++ Ep 5: Connecting to the GitHub API
++ Ep 6: SEO, Performance & Recruiter-Ready Audit
 
 ## 🤝 Community
 If you're taking the course, drop your live Render URL in the YouTube comments! Let’s see what you’ve built.
