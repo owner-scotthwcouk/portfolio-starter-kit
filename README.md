@@ -19,7 +19,7 @@ Push: `git push origin main`
 Deploy: Connect your GitHub repo to Render for a live URL.
 
 ## 📅 The 6-Part Curriculum
-**Ep 1: The Global Launch (Current)**
+- **Ep 1: The Global Launch (Current)**
 - Ep 2: Master Interaction with JavaScript Basics
 - Ep 3: Scaling with Data: Arrays & Loops
 - Ep 4: Building a Professional Contact Engine
