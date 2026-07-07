@@ -12,11 +12,11 @@ Open the folder and launch Live Server to see your site update in real-time as y
 ## 🏗️ The Engineering Workflow
 In this course, we don't just "save" files. We follow the professional developer pipeline:
 
-Modify: Change your name and brand colors in index.html and style.css.
-Stage: `git add .`
-Commit: `git commit -m "Personalized my portfolio brand"`
-Push: `git push origin main`
-Deploy: Connect your GitHub repo to Render for a live URL.
+1. Modify: Change your name and brand colors in index.html and style.css.
+2. Stage: `git add .`
+3. Commit: `git commit -m "Personalized my portfolio brand"`
+4. Push: `git push origin main`
+5. Deploy: Connect your GitHub repo to Vercel for a live URL.
 
 ## 📅 The 6-Part Curriculum
 -  **Ep 1: The Global Launch (Current)**
